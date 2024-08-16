@@ -17,7 +17,7 @@ Parameters:
   GitSourceRepo:
     Type: String
     Description: GitHub source repository - must contain a Dockerfile and buildspec.yml in the base
-    Default: cd0157-Server-Deployment-and-Containerization
+    Default: SQL-and-Data-Modeling-for-the-Web
     MinLength: 1
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub repository name
@@ -36,11 +36,11 @@ Parameters:
     Description: GitHub API token - see https://github.com/blog/1509-personal-api-tokens
     MinLength: 3
     MaxLength: 100
-    ConstraintDescription: You must enter a GitHub personal access token
+    ConstraintDescription: You must enter a GitHub API token
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: krillavilla
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
