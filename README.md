@@ -8,13 +8,9 @@ The goal of the Full Stack Web Developer Nanodegree program is to equip learners
 ### Here, you can find starter-code the following projects:
 
 - 01_fyyur/starter_code - This is the project from C1. SQL and Data Modeling for the Web
-
 - 02_trivia_api/starter - This is the project from C2. API Development and Documentation
-
 - 03_coffee_shop_full_stack/starter_code - This is the project from C3. Identity and Access Management
-
 - 04_deploying_flask_app_to_kubernetes_using_eks/starter - This is the project from C4. Server Deployment & Containerization
-
 - capstone - This is the final project of this Nanodegree.
 
 
