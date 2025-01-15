@@ -1,3 +1,6 @@
 [submodule "04_Server-Deployment-and-Containerization"]
 	path = 04_Server-Deployment-and-Containerization
 	url = https://github.com/krillavilla/04_Server-Deployment-and-Containerization.git
+[submodule "Cybersecurity_Tools_Management_API"]
+	path = Cybersecurity_Tools_Management_API
+	url = https://github.com/krillavilla/Cybersecurity_Tools_Management_API
